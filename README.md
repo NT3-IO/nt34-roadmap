@@ -8,7 +8,7 @@ Năm 2020 sắp kết thúc, giờ là lúc để nhìn về tương lai.
 4. Tham gia nghiên cứu, bổ sung tài liệu
 
 ## Giải phẫu - Sinh lý
-* Học **Giải phẫu** dựa trên [Atlas Giải Phẫu](https://github.com/MLockers/Atlas-collection/blob/master/Netter-Interactive-Atlas-of-Human-Anatomy/Netter-Interactive-Atlas-of-Human-Anatomy%5Bvi%5D.pdf), [Giải phẫu người của Trịnh Văn Minh](https://github.com/MLockers/HPMUDocs-2017/blob/master/Giai-phau)
+* Học **Giải phẫu** dựa trên [Atlas Giải Phẫu](https://github.com/MLockers/Atlas-collection/blob/master/Netter-Interactive-Atlas-of-Human-Anatomy/Netter-Interactive-Atlas-of-Human-Anatomy%5Bvi%5D.pdf), [Giải phẫu người của Trịnh Văn Minh](https://github.com/MLockers/HPMUDocs-2017/blob/master/Giai-phau), tham khảo thêm [video](https://www.youtube.com/playlist?list=PLms0b5Z8uXzCJixOSQm4gLc3sFI56nZRH)
 * Học **Sinh Lý** dựa trên Sinh lý học TP HCM, [Sinh lý học bộ Y Tế](https://github.com/MLockers/HPMUDocs-2018/blob/master/Sinh-ly/Sinh-ly-hoc%5BBo-Y-te%5D.pdf), Guyton.
 * Lịch học:
 
