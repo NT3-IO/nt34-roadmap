@@ -22,13 +22,13 @@ Nội dung của kỳ thi sẽ chú trọng vào các hệ cơ quan chính, mụ
 
 | STT | Thời gian | Nội dung học |
 | -------- | --------- | ------------ |
-| 1 | Tháng 8 | Tuần hoàn |
-| 2 | Tháng 9 | Hô hấp |
-| 3 | Tháng 10 | Thận - Tiết niệu |
-| 4 | Tháng 11 | Tiêu hóa |
-| 5 | Tháng 12 | Thần kinh |
-| 6 | Tháng 1 | Nội tiết |
-| 7 | Tháng 2 | Cơ xương khớp cơ bản - Sinh lý tế bào |
-| 8 | Tháng 3 | *Dự phòng hoàn thiện chương trình* |
+| 1 | 08/2020 | Tuần hoàn |
+| 2 | 09/2020 | Hô hấp |
+| 3 | 10/2020 | Thận - Tiết niệu |
+| 4 | 11/2020 | Tiêu hóa |
+| 5 | 12/2020 | Thần kinh |
+| 6 | 01/2021 | Nội tiết |
+| 7 | 02/2021 | Cơ xương khớp cơ bản - Sinh lý tế bào |
+| 8 | 03/2021 | *Dự phòng hoàn thiện chương trình* |
 
 * [Bảng điểm](https://docs.google.com/spreadsheets/d/1s2_SJy6Qr2aDFlBPaywOvYPcKxxs6_3IILCCrNUYYtM/edit?usp=sharing)
