@@ -8,8 +8,8 @@
 4. Tham gia nghiên cứu, bổ sung tài liệu
 
 ## Giải phẫu - Sinh lý
-* Tài liệu **Giải phẫu** dựa trên [Atlas Giải Phẫu](https://github.com/MLockers/Atlas-collection/blob/master/Netter-Interactive-Atlas-of-Human-Anatomy/Netter-Interactive-Atlas-of-Human-Anatomy%5Bvi%5D.pdf), [Giải phẫu người của Trịnh Văn Minh](https://github.com/MLockers/HPMUDocs-2017/blob/master/Giai-phau), BRS Gross Anaomy tham khảo thêm [video](https://www.youtube.com/playlist?list=PLms0b5Z8uXzCJixOSQm4gLc3sFI56nZRH).
-* Tài liệu **Sinh Lý** dựa trên Sinh lý học TP HCM, [Sinh lý học bộ Y Tế](https://github.com/MLockers/HPMUDocs-2018/blob/master/Sinh-ly/Sinh-ly-hoc%5BBo-Y-te%5D.pdf), [Guyton Physiology](https://github.com/MLockers/medical-lib/blob/master/Guyton-and-Hall-Textbook-of-Medical-Physiology%5Ben%5D.pdf), BRS Physiology.
+* Tài liệu **Giải phẫu** dựa trên [Atlas Giải Phẫu](https://github.com/MLockers/Atlas-collection/blob/master/Netter-Interactive-Atlas-of-Human-Anatomy/Netter-Interactive-Atlas-of-Human-Anatomy%5Bvi%5D.pdf), [Giải phẫu người của Trịnh Văn Minh](https://github.com/MLockers/HPMUDocs-2017/blob/master/Giai-phau), [BRS Gross Anatomy](https://github.com/MLockers/BRS), tham khảo thêm [video](https://www.youtube.com/playlist?list=PLms0b5Z8uXzCJixOSQm4gLc3sFI56nZRH).
+* Tài liệu **Sinh Lý** dựa trên Sinh lý học TP HCM, [Sinh lý học bộ Y Tế](https://github.com/MLockers/HPMUDocs-2018/blob/master/Sinh-ly/Sinh-ly-hoc%5BBo-Y-te%5D.pdf), [Guyton Physiology](https://github.com/MLockers/medical-lib/blob/master/Guyton-and-Hall-Textbook-of-Medical-Physiology%5Ben%5D.pdf), [BRS Physiology](https://github.com/MLockers/BRS).
 
 ## Medical JAM
 > Kỳ thi kiểm tra chất lượng **NT34 team**.
@@ -20,10 +20,10 @@ Nội dung của kỳ thi sẽ chú trọng vào các hệ cơ quan chính, mụ
 
 * Lịch thi:
 
-| STT | Thời gian | Nội dung học |
-| -------- | --------- | ------------ |
-| 1 | 08/2020 | Tuần hoàn |
-| 2 | 09/2020 | Hô hấp |
+| STT | Thời gian | Nội dung | Đáp án |
+| -------- | --------- | ------------ | ---------- |
+| 1 | 08/2020 | Tuần hoàn [chi tiết](https://github.com/NT3-IO/nt34-roadmap/issues/1) | [Giải phẫu](https://github.com/NT3-IO/nt34-roadmap/files/5212211/Giai-phau.docx) [Sinh lý](https://github.com/NT3-IO/nt34-roadmap/files/5212212/Sinh-ly.docx) |
+| 2 | 09/2020 | Hô hấp [chi tiết](https://github.com/NT3-IO/nt34-roadmap/issues/2) |
 | 3 | 10/2020 | Thận - Tiết niệu |
 | 4 | 11/2020 | Tiêu hóa |
 | 5 | 12/2020 | Thần kinh |
