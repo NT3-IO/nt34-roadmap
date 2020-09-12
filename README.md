@@ -23,12 +23,12 @@ Nội dung của kỳ thi sẽ chú trọng vào các hệ cơ quan chính, mụ
 | STT | Thời gian | Nội dung | Đáp án |
 | -------- | --------- | ------------ | ---------- |
 | 1 | 08/2020 | Tuần hoàn [chi tiết](https://github.com/NT3-IO/nt34-roadmap/issues/1) | [Giải phẫu](https://github.com/NT3-IO/nt34-roadmap/files/5212211/Giai-phau.docx) [Sinh lý](https://github.com/NT3-IO/nt34-roadmap/files/5212212/Sinh-ly.docx) |
-| 2 | 09/2020 | Hô hấp [chi tiết](https://github.com/NT3-IO/nt34-roadmap/issues/2) |
-| 3 | 10/2020 | Thận - Tiết niệu |
-| 4 | 11/2020 | Tiêu hóa |
-| 5 | 12/2020 | Thần kinh |
-| 6 | 01/2021 | Nội tiết |
-| 7 | 02/2021 | Cơ xương khớp cơ bản - Sinh lý tế bào |
-| 8 | 03/2021 | *Dự phòng hoàn thiện chương trình* |
+| 2 | 10/09/2020 | Hô hấp [chi tiết](https://github.com/NT3-IO/nt34-roadmap/issues/2) |
+| 3 | 08/10/2020 | Thận - Tiết niệu |
+| 4 | 29/10/2020 | Tiêu hóa |
+| 5 | 03/12/2020 | Thần kinh |
+| 6 | 10/01/2021 | Nội tiết |
+| 7 | 28/01/2021 | Cơ xương khớp cơ bản - Sinh lý tế bào |
+| 8 | 04/03/2021 | *Dự phòng hoàn thiện chương trình* |
 
 * [Bảng điểm](https://docs.google.com/spreadsheets/d/1s2_SJy6Qr2aDFlBPaywOvYPcKxxs6_3IILCCrNUYYtM/edit?usp=sharing)
