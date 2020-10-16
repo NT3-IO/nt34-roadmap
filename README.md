@@ -22,8 +22,8 @@ Nội dung của kỳ thi sẽ chú trọng vào các hệ cơ quan chính, mụ
 
 | STT | Thời gian | Nội dung | Đáp án |
 | -------- | --------- | ------------ | ---------- |
-| 1 | 03/09/2020 | Tuần hoàn [chi tiết](https://github.com/NT3-IO/nt34-roadmap/issues/1) | [Giải phẫu](https://github.com/NT3-IO/nt34-roadmap/files/5212211/Giai-phau.docx) [Sinh lý](https://github.com/NT3-IO/nt34-roadmap/files/5212212/Sinh-ly.docx) |
-| 2 | 08/10/2020 | Hô hấp [chi tiết](https://github.com/NT3-IO/nt34-roadmap/issues/2) |
+| 1 | 03/09/2020 | Tuần hoàn [chi tiết](https://github.com/NT3-IO/nt34-roadmap/issues/1) | [Giải phẫu](https://github.com/NT3-IO/nt34-roadmap/files/5212211/Giai-phau.docx) - [Sinh lý](https://github.com/NT3-IO/nt34-roadmap/files/5212212/Sinh-ly.docx) |
+| 2 | 08/10/2020 | Hô hấp [chi tiết](https://github.com/NT3-IO/nt34-roadmap/issues/2) | [Giải phẫu](https://github.com/NT3-IO/nt34-roadmap/files/5393058/Giai-phau.docx) - [Sinh lý](https://github.com/NT3-IO/nt34-roadmap/files/5393057/Sinh-ly.docx)|
 | 3 | 29/10/2020 | Thận - Tiết niệu [chi tiết](https://github.com/NT3-IO/nt34-roadmap/issues/3)|
 | 4 | 03/12/2020 | Tiêu hóa |
 | 5 | 10/01/2020 | Thần kinh |
